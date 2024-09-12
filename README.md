@@ -13,7 +13,7 @@
 
 <p> Reach me on LinkedIn --> @MartinaBoccuzzi (https://www.linkedin.com/in/martina-boccuzzi/) </p>
 
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/marboccu?1337Badge=off&UM6P=off" alt="marboccu's 42 stats" /></a>
+  [![<marboccu>'s 42 stats](https://badge.mediaplus.ma/darkblue/<marboccu>)](https://github.com/oakoudad/badge42)
 </div>  
 
 <br/>  
