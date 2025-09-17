@@ -13,7 +13,7 @@
 
 <p> Reach me on LinkedIn --> @MartinaBoccuzzi (https://www.linkedin.com/in/martina-boccuzzi/) </p>
 
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/marboccu?1337Badge=off&UM6P=off" alt="marboccu's 42 stats" /></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/marboccu?1337Badge=off&UM6P=off" alt="marboccu's 42 stats" /></a>
 </div>  
 
 <br/>  
@@ -60,7 +60,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Martybb01&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?theme=colorfulwaves?username=Martybb01&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Martybb01&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <br/>  
