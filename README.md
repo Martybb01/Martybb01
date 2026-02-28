@@ -9,16 +9,6 @@
 ### 📚 Learning & Certifications
 - [GitHub Actions](https://github.com/marti-skills) - In-progress GitHub Skills pathway
 
-  <div>
-1.     <a href="https://github.com/oakoudad/badge42">
-2.       <img src="https://badge.mediaplus.ma/colorfulwaves/marboccu?1337Badge=off&UM6P=off" alt="marboccu's 42 stats" />
-3.     </a>
-4.     <a href="https://github.com/anuraghazra/convoychat">
-5.       <img height=500  src="https://github-readme-stats.vercel.app/api/top-langs?username=Martybb01&layout=compact&langs_count=8&card_width=320" />
-6.     </a>
-7.   </div>
-8. </div>  
-
 <br/>  
 
 <div align="center">
