@@ -6,6 +6,8 @@
 #### I’m interested in Cybersecurity and DevSecOps
 #### Currently studying computer engineering at 42Firenze
 #### Reach me on LinkedIn --> <a href="https://www.linkedin.com/in/martina-boccuzzi/">Martina-Boccuzzi</a>
+### 📚 Learning & Certifications
+- [GitHub Actions](https://github.com/marti-skills) - In-progress GitHub Skills pathway
 
   <div>
     <a href="https://github.com/oakoudad/badge42">
